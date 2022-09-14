@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Algorithms and Complexity, Discrete Mathematics, Theory of Computation, Machine Learning
 - 💞️ I’m looking to collaborate on ... Open-source Web Projects, Open-source system utilities
 - 📫 How to reach me ...
-![<img src="/facebook.png" height="32" width="32">](https://facebook.com/aebibtech) <img src="/linkedin.png" height="32" width="32"> <img src="/twitter.png" height="32" width="32"> <img src="/youtube.png" height="32" width="32">
+<a href=""https://facebook.com/aebibtech><img src="/facebook.png" height="32" width="32"></a> <img src="/linkedin.png" height="32" width="32"> <img src="/twitter.png" height="32" width="32"> <img src="/youtube.png" height="32" width="32">
 
 
 <!---
