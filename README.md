@@ -22,7 +22,7 @@ I treat code as an asset, not a cost center. Because I build, launch, and mainta
 
 ### 🛠️ Strategic Services
 
-#### 🔹 Fractional CTO & Advisory
+#### 🔹 Technical Strategy & Advisory
 High-level technical leadership for non-technical founders and early-stage ventures. I structure your engineering roadmap and architecture so you can focus entirely on growth.
 * Tech Stack Selection & Modular Architecture Design
 * Developer Workflows & AI-Assisted Development Strategies (Copilot/Gemini Integration)
