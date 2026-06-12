@@ -4,7 +4,7 @@ aebibtech/aebibtech is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 # Hi there, I'm Aebibtech 👋
-### Product Founder & Fractional CTO | High-Performance Systems Architect
+### Product Founder & Technical Consultant | High-Performance Systems Architect
 
 I build high-performance systems for people who value execution over theory. By combining deep technical expertise with a founder's perspective, I bridge the gap between architectural complexity, infrastructure costs, and business growth. 
 
