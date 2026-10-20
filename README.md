@@ -24,10 +24,10 @@ I operate both as an independent SaaS founder and a technical consultant for bus
 
 ### 🚀 Active Ventures & Products
 
-- **StewardAxis LLC:** Independent US software venture studio engineering lightweight, multi-tenant B2B SaaS platforms.
-- **Team Chords:** Live performance and worship band management platform featuring real-time setlist synchronization, ChordPro parsing, and cross-platform mobile apps.
+- **[StewardAxis LLC](https://stewardaxis.com):** Independent US software venture studio engineering lightweight, multi-tenant B2B SaaS platforms.
+- **[Team Chords](https://teamchords.com):** Live performance and worship band management platform featuring real-time setlist synchronization, ChordPro parsing, and cross-platform mobile apps.
   - *Stack:* ASP.NET Core 9, PostgreSQL 17, FastIngest, SignalR, Redis 7, React Native / Expo.
-- **Tindahan Natin:** Grassroots inventory tracking and ledger mobile app actively used by neighborhood micro-retailers (*sari-sari* stores) and novelty shops across the Philippines.
+- **[Tindahan Natin](https://tindahannatin.aebibtech.com):** Grassroots inventory tracking and ledger mobile app actively used by neighborhood micro-retailers (*sari-sari* stores) and novelty shops across the Philippines.
   - *Stack:* Android, Offline-First SQLite/PostgreSQL, Lightweight sync architecture.
 
 ---
