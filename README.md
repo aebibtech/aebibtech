@@ -2,7 +2,6 @@
 aebibtech/aebibtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 # Hi there, I'm Paul Abib Camano 👋
-### Founder & Systems Architect at StewardAxis LLC & Aebibtech
 
 I design and build resilient, high-throughput digital systems and lightweight SaaS applications. My engineering philosophy is rooted in first-principles execution: maximizing compute efficiency, zeroing out memory bloat, and treating software as an appreciating asset rather than a cost center.
 
