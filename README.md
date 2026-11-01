@@ -12,7 +12,7 @@ I operate both as an independent SaaS founder and a technical consultant for bus
 
 ### ⚡ Proven Production Benchmarks & Open Source
 
-- **[FastIngest (.NET & Bun)](https://github.com/aebibtech/fastingest):** Modular, high-throughput data ingestion pipeline utilizing PostgreSQL wire binary `COPY` protocol (`COPY FROM STDIN (FORMAT BINARY)`).
+- **[FastIngest (.NET)](https://github.com/aebibtech/fastingest):** Modular, high-throughput data ingestion pipeline utilizing PostgreSQL wire binary `COPY` protocol (`COPY FROM STDIN (FORMAT BINARY)`).
   - **15,710 items/sec** database ingestion throughput on PostgreSQL 17 (a **5.4x speedup** over traditional ORM batch loops).
   - Scaled 1,000-record import latency from **343.6 ms down to 63.7 ms** with **0 KB** GC thread allocations.
   - Organic adoption of **1,600+ NuGet downloads** across 9 packages in its first 48 hours.
